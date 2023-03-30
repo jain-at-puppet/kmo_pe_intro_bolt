@@ -1,0 +1,5 @@
+---
+custom_attributes:
+  challengePassword: 'AUTOSIGN_PASSWORD'
+extension_requests:
+  pp_role: 'webserver'
