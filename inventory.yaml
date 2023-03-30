@@ -1,5 +1,5 @@
 groups:
-  - name: linux
+  - name: nixagents
     targets: 
     - nixagent1
     - nixagent2
